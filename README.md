@@ -23,12 +23,12 @@ pip install -r requirements.txt
  **Regression**: Price prediction, forecasting, etc.
 
 ### 🎯 Why Use This?
-
+✅ **Educational**      --> Learn ML concepts with clean examples  
 ✅ **Fast prototyping** --> Generate data in 3 lines of code  
 ✅ **Reproducible**     --> Same seed = same data every time  
 ✅ **Configurable**     --> Control noise, trends, class balance  
 ✅ **No setup**         --> Just pip/conda install 
-✅ **Educational**      --> Learn ML concepts with clean examples  
+
 
 ### 💡 Examples
 
@@ -45,7 +45,7 @@ data-synthesizer/
 │   ├── tabular.py             # Classification/regression generator
 │   └── utils.py               # Utility functions
 ├── example/ 
-|   └── ex01.py                   # Example outputs
+|   └── ex01.py                # Example outputs
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file
 ```
